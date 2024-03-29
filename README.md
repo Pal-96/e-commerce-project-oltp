@@ -1,3 +1,12 @@
+## Problem Statement:
+The issue we aim to address is the growing demand for online shopping, driven by the need to streamline inefficient transactions, maintaining complex product management, ensure real-time inventory updates, and simplify payment transactions.
+
+## Objective:
+Our objective is to develop an innovative E-commerce OLTP (Online Transaction Processing) platform that seamlessly caters to the surging demand for online shopping. This platform will prioritize enhancing transaction efficiency, simplifying the maintenance of complex product management, enabling real-time inventory updates, and ensuring effortless payment transactions.
+
+## Problem Solution:
+![image](https://github.com/Pal-96/e-commerce-project-oltp/assets/119008696/3a2b378e-0a7a-43db-8d72-2777f61765bf)
+
 ### Below is the order of Script execution and their respective worksheets<br>
 
 **1_SysAdmin.sql:**<br><br>
