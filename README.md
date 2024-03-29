@@ -5,7 +5,8 @@ The issue we aim to address is the growing demand for online shopping, driven by
 Our objective is to develop an innovative E-commerce OLTP (Online Transaction Processing) platform that seamlessly caters to the surging demand for online shopping. This platform will prioritize enhancing transaction efficiency, simplifying the maintenance of complex product management, enabling real-time inventory updates, and ensuring effortless payment transactions.
 
 ## Problem Solution:
-<img width="400" alt="image" src="https://github.com/Pal-96/e-commerce-project-oltp/assets/119008696/6932c74e-ec1b-4374-8975-d18735a9fe57">
+<img width="400" alt="image" src="https://github.com/Pal-96/e-commerce-project-oltp/assets/119008696/2aeef4ba-291e-458f-8dea-af088be0a677">
+
 
 ## User Roles:
 - Admin
